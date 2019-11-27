@@ -1,0 +1,116 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #EAF6F6;
+  font-size: 15px;
+  color: hsl(229, 6%, 66%);
+}
+
+.first-heading {
+  font-weight: normal;
+  margin: 50px auto 0 auto;
+  color: hsl(229, 6%, 66%);
+}
+
+.second-heading {
+  font-weight: 600;
+  margin: 0 auto 30px auto;
+  color: hsl(234, 12%, 34%);
+  font-size: 1.9rem;
+}
+
+.intro {
+  width: 40%;
+  margin: 10px auto 50px auto;
+}
+
+.third-heading {
+  color: hsl(234, 12%, 34%);
+}
+
+.float-left {
+  float: left;
+  border-top: solid 5px;
+  border-top-color: hsl(180, 62%, 55%);
+  padding: 25px;
+  margin: auto 20px auto 100px;
+  width: 20%;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+  text-align: left;
+  background-color: white;
+  position: relative;
+  margin-top: 100px;
+  margin-left: 175px;
+}
+
+.first-img {
+  width: 18%;
+  padding-top: 10px;
+  padding-left: 200px;
+  padding-bottom: 10px;
+}
+.second-img{
+  width:18%;
+  padding-top: 10px;
+  padding-left: 200px;
+  padding-bottom: 10px;
+}
+
+.float-top {
+  border-top: solid 5px;
+  border-top-color: hsl(0, 78%, 62%);
+  width: 20%;
+  padding: 25px;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+  background-color: white;
+  position: absolute;
+  text-align: left;
+  margin-left: 530px;
+}
+.float-bottom{
+  border-top: solid 5px;
+  border-top-color: hsl(34, 97%, 64%);
+  width: 20%;
+  padding: 25px;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+  background-color: white;
+  position: absolute;
+  text-align: left;
+  top: 550px;
+  left: 530px;
+}
+.float-right{
+  float: right;
+  border-top: solid 5px;
+  border-top-color: hsl(212, 86%, 64%);
+  width: 20%;
+  padding: 25px;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+  background-color: white;
+  text-align: left;
+  margin-top: 100px;
+  margin-right: 150px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(234, 12%, 34%);
+  position: absolute;
+  top: 850px;
+  left: 530px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+
+}
+.attribution a:hover{
+  color: black;
+}
